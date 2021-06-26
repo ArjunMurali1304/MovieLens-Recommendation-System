@@ -1,5 +1,16 @@
 # MovieLens Recommendation System
 
+https://le-james94.medium.com/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223
+
+https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/
+
+https://analyticsindiamag.com/how-to-build-a-content-based-movie-recommendation-system-in-python/
+
+https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset?select=movies.csv
+
+https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5
+
+
 The purpose of this study is to build a recommendation engine that recommends movies to users. A recommendation system is a platform that provides its users with various contents based on their preferences and likings. From Netflix to Hulu, the need to build robust movie recommendation systems is extremely important given the huge demand for personalized content of modern consumers. Recommendation systems are used not only for movies, but on multiple other products and services like Amazon (Items, Books), Spotify/Pandora (Music), Google (News, Search), YouTube (Videos) etc. 
 
 These systems open new opportunities for businesses and individuals. As a data scientist, we extract insights and behavioural patterns of not only the users (audience) but also from the movies themselves, which when done right could be highly beneficial to the service and its users. 
