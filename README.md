@@ -1,14 +1,6 @@
 # MovieLens Recommendation System
 
-https://le-james94.medium.com/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223
 
-https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/
-
-https://analyticsindiamag.com/how-to-build-a-content-based-movie-recommendation-system-in-python/
-
-https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset?select=movies.csv
-
-https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5
 
 
 The purpose of this study is to build a recommendation engine that recommends movies to users. A recommendation system is a platform that provides its users with various contents based on their preferences and likings. From Netflix to Hulu, the need to build robust movie recommendation systems is extremely important given the huge demand for personalized content of modern consumers. Recommendation systems are used not only for movies, but on multiple other products and services like Amazon (Items, Books), Spotify/Pandora (Music), Google (News, Search), YouTube (Videos) etc. 
@@ -24,5 +16,15 @@ MODEL BUILDING: We will start with Item Based Collaborative filtering method, us
 ❖	Content based filtering (Cosine similarity, Term Frequency and Inverse Term Frequency) 
 ❖	Memory-based Collaborative filtering (Pearson similarity)
 ❖	Model-based collaborative filtering (Matrix factorization, Dimensionality reduction)
-❖	Deep learning (Adam based)
 
+I worked on this project after referring to the following links:
+
+https://le-james94.medium.com/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223
+
+https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/
+
+https://analyticsindiamag.com/how-to-build-a-content-based-movie-recommendation-system-in-python/
+
+https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset?select=movies.csv
+
+https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5
